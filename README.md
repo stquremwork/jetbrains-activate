@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://www.jetbrains.com/idea/download/?section=windows">
-    <img src="https://img.shields.io/badge/Download-Activation_Assistant-blueviolet?style=for-the-badge&logo=intellij-idea" alt="Download IntelliJ IDEA">
+    <img src="https://img.shields.io/badge/Download-IntelliJ_IDEA-blueviolet?style=for-the-badge&logo=intellij-idea" alt="Download IntelliJ IDEA">
   </a>
 </p>
 
