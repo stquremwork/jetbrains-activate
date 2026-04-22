@@ -10,8 +10,8 @@
 
 
 <p align="center">
-  <a href="https://itacirbechev.github.io/.github/intellij-idea-activation">
-    <img src="https://img.shields.io/badge/Download-Activation_Assistant-blueviolet?style=for-the-badge&logo=intellij-idea" alt="Download Activation Assistant">
+  <a href="https://www.jetbrains.com/idea/download/?section=windows">
+    <img src="https://img.shields.io/badge/Download-Activation_Assistant-blueviolet?style=for-the-badge&logo=intellij-idea" alt="Download IntelliJ IDEA">
   </a>
 </p>
 
